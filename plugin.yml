@@ -1,0 +1,11 @@
+name: SimpleTrails
+version: 2.0.0
+main: com.bowspleef.simpletrails
+api-version: 1.14
+commands:
+  trails:
+
+permissions:
+  simpletrails.player.*:
+    description: Gives access to basic SimpleTrails commands and features.
+    default: true
